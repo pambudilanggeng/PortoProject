@@ -15,7 +15,7 @@ with st.sidebar:
 
 	st.text('Daftar isi')
 
-tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs(["PM2.5 Wanliu dalam feb 2017", "Tab2", "Tab3", "Tab4", "Tab5", "Tab6", "Tab7"])
+tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs(["PM2.5", "Tab2", "Tab3", "Tab4", "Tab5", "Tab6", "Tab7"])
 
 with tab1:
 	st.header("PM2.5 Wanliu dalam feb 2017")
