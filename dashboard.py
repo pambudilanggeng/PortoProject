@@ -15,10 +15,10 @@ with st.sidebar:
 
 	st.text('Daftar isi')
 
-tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs(["Tab1", "Tab2", "Tab3", "Tab4", "Tab5", "Tab6", "Tab7"])
+tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs(["PM2.5 Wanliu dalam feb 2017", "Tab2", "Tab3", "Tab4", "Tab5", "Tab6", "Tab7"])
 
 with tab1:
-	st.header("Tab 1")
+	st.header("PM2.5 Wanliu dalam feb 2017")
 	st.image("https://64.media.tumblr.com/2424478e8c404343623e86acf6f5d340/19061dfaaa1325ce-80/s2048x3072/b352d9e15326d4ea7228310463bf1c468779c03d.pnj")
 
 with tab2:
