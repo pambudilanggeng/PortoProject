@@ -24,6 +24,9 @@ tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs(["PM2.5", "RAIN", "WSPM", "PM
 with tab1:
 	st.header("PM2.5 Wanliu dalam feb 2017")
 	st.image("https://64.media.tumblr.com/2424478e8c404343623e86acf6f5d340/19061dfaaa1325ce-80/s2048x3072/b352d9e15326d4ea7228310463bf1c468779c03d.pnj")
+	st.write("Berdasarkan data, polusi PM2.5 di Wanliu cenderung fluktuatif dengan rata-rata 68.28. Akan tetapi terdapat beberapa hari dengan nilai harian per jam polusi PM2.5 nya yang rendah dibandingkan dengan hari lain. Hari tersebut adalah pada tanggal 9 dan 10 feb 2017. Rata-rata polusi PM2.5 untuk tanggal 9 adalah 5 dan untuk tanggal 10 adalah 5.4.")
+
+
 
 with tab2:
 	st.header("Hujan (Rain) Wanliu dalam feb 2017")
