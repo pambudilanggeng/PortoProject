@@ -1,0 +1,11 @@
+library yang dipakai sebagai berikut
+
+
+import numpy as np
+import pandas as pd
+import io
+import matplotlib.pyplot as plt
+import seaborn as sns
+import urllib
+import matplotlib.image as mpimg
+from scipy import stats
