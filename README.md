@@ -1,7 +1,7 @@
 # PortoProject
 Pambudi’s mini project and portfolio 
 
-how to run dashboar.py
+how to run dashboard.py
 
 go to [www](https://dashboardpy-skm96uimvbwexfqbjkl3ph.streamlit.app/)https://dashboardpy-skm96uimvbwexfqbjkl3ph.streamlit.app/
 
