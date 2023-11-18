@@ -13,8 +13,8 @@ st.title('Belajar Analisis Data :sparkles:')
 with st.sidebar:
 
 	st.text(
-		'Pengembangan Dashboard //
-		Berikut adalah dashboard sederhana yang coba saya buat dari data yang sudah saya analisis. //
+		'Pengembangan Dashboard /
+		Berikut adalah dashboard sederhana yang coba saya buat dari data yang sudah saya analisis. /
   		Ini adalah data kualitas udara dari daerah Wanliu pada tahun 2017.'
 		)
 
