@@ -14,10 +14,9 @@ with st.sidebar:
 
 	st.text(
 		'Pengembangan Dashboard')
-	st.text(
-		'Berikut adalah dashboard sederhana yang coba saya buat dari data yang sudah saya analisis.')
-	st.text(
-  		'Ini adalah data kualitas udara dari daerah Wanliu pada tahun 2017.'
+	st.write(
+		'Berikut adalah dashboard sederhana yang coba saya buat dari data yang sudah saya analisis.'
+	  	'Ini adalah data kualitas udara dari daerah Wanliu pada tahun 2017.'
 		)
 
 tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs(["PM2.5", "RAIN", "WSPM", "PM2.5 perhari", "PM2.5 terendah", "RAIN 21", "Tab7"])
