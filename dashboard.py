@@ -28,6 +28,7 @@ with tab1:
 with tab2:
 	st.header("Hujan (Rain) Wanliu dalam feb 2017")
 	st.image("https://64.media.tumblr.com/7e0a3c3fe42b4541e212729ac48f70ea/19061dfaaa1325ce-04/s1280x1920/2fa37eb31c799e43e401ed3a158bf1fef1e692ab.pnj")
+	st.write("Curah hujan di daerah Wanliu pada bulan Februari 2017 sangat rendah. Hal tersebut dibuktikan dengan hujan yang turun pada sangat sedikit yaitu hanya pada tanggal 21 Februari 2017. Hujan turun sekitar pukul 13.00-15.00 dan 19.00-23.00 waktu setempat. Hujan pada tanggal tersebut juga intensitasnya ringan dengan nilai tertingginya 1 mm.")
 
 with tab3:
 	st.header("Kecepatan Angin (WSPM) Wanliu dalam feb 2017")
