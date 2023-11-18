@@ -7,4 +7,4 @@ go to [www](https://dashboardpy-skm96uimvbwexfqbjkl3ph.streamlit.app/)https://da
 
 
 ps
-(pakai streamlit.io karena berkali-kali gagal pakai code editor vs, pycharm. gagal terus sehingga bikin coding pakai vs kemudian upload di git dan tautkan ke streamlit.io)
+(pakai streamlit.io karena berkali-kali gagal pakai code editor vs, pycharm. gagal terus pasang library streamlit sehingga bikin coding pakai vs kemudian upload di git dan tautkan ke streamlit.io)
