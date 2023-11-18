@@ -56,5 +56,21 @@ with tab6:
 
 
 with tab7:
-	st.header("Tab 7")
-	st.image("https://64.media.tumblr.com/390c98b35584347e5ff01c391f08f01b/19061dfaaa1325ce-28/s1280x1920/2a90ec662e6bfcea4b724065802ef665c908041d.pnj")
+	st.header("Kesimpulan")
+	st.write("
+	
+
+Korelasi antara PM2.5 dan WSPM: -0.384387687658842
+Korelasi antara PM2.5 dan RAIN: -0.022346427917676864
+
+Korelasi antara PM2.5 dan WSPM sebesar -0.384387687658842 menunjukkan adanya hubungan negatif yang moderat antara kecepatan angin (WSPM) dan konsentrasi PM2.5. Artinya, ketika kecepatan angin cenderung meningkat, konsentrasi PM2.5 cenderung menurun, dan sebaliknya.
+
+Korelasi antara PM2.5 dan RAIN sebesar -0.022346427917676864 juga menunjukkan adanya hubungan negatif, tetapi hubungan ini sangat lemah. Artinya, hujan memiliki pengaruh yang sangat kecil terhadap konsentrasi PM2.5.
+
+Akan tetapi nilai korelasi keduanya bernilai kecil (mendekati 0) sehingga hubungan antara PM2.5 baik dengan WSPM maupun dengan RAIN cenderung lemah.
+Conclusion
+
+    Berdasarkan data, polusi PM2.5 di Wanliu bulan februari 2017 cenderung fluktuatif dengan rata-rata 83.37 dengan rata-rata harian terendah adalah 5.0 dan 5.4 (tanggal 9 dan 10) dan tertinggi adalah 234.9 (tanggal 4)
+    Tren hujan di Wanliu cenderung sama yakni tidak hujan kecuali pada tanggal 21 Feb 2017 dengan intensitas yang rendah.
+    Beberapa faktor yang memengaruhi polusi PM2.5 adalah WSPM (kecepatan angin) dan RAIN (hujan). Hubungan bernilai negatif yang berarti semakin tinggi nilai WSPM atau RAIN maka nilai PM2.5 semakin rendah. Akan tetapi nilai hubungannya rendah (mendekati 0) sehingga hubungan anatar variable tersebut cenderung lemah dan mungkin dipegaruhi oleh variable-variable yang lain.
+	")
