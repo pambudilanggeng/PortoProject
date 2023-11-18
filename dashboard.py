@@ -37,6 +37,7 @@ with tab3:
 with tab4:
 	st.header("PM2.5 per jam per hari Wanliu dalam feb 2017")
 	st.image("https://64.media.tumblr.com/ca0400524ba154b0bfc05ebefa48f5ab/19061dfaaa1325ce-68/s2048x3072/9da0deacf248e22db6d47b2639562107ff10195c.pnj")
+	st.write("Berdasarkan data, polusi PM2.5 di Wanliu cenderung fluktuatif dengan rata-rata 68.28. Akan tetapi terdapat beberapa hari dengan nilai harian per jam polusi PM2.5 nya yang rendah dibandingkan dengan hari lain. Hari tersebut adalah pada tanggal 9 dan 10 feb 2017. Rata-rata polusi PM2.5 untuk tanggal 9 adalah 5 dan untuk tanggal 10 adalah 5.4.")
 
 
 with tab5:
